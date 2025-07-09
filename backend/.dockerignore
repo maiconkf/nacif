@@ -1,0 +1,46 @@
+# Git
+.git
+.gitignore
+
+# Environment files
+.env
+.env.*
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv
+.venv
+env
+.env
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+*.md
+
+# Tests
+test/
+tests/
+.pytest_cache
+.coverage
+
+# Development tools
+.tox
+.mypy_cache
